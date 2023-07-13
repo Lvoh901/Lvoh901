@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lvoh901
+- 👋 Hi, I’m Elvis Odhiambo
 - 👀 I’m interested in HTML/CSS, Python, Git, and becoming a Fullstack Developer
 - 🌱 I’m currently learning HTML/CSS/Javascript
 - 💞️ I’m looking to collaborate on repositories and small projects to improve on my skills
