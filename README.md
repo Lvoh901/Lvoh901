@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elvis Odhiambo
-- 👀 I’m interested in HTML/CSS, Python, Git, and becoming a Fullstack Developer
-- 🌱 HTML/CSS/Javascript Journey - I have covered HTML and CSS extensively now embarking on Javascript.
+- 👀 Developer journey is continually exciting and engaging
+- 🌱 HTML/CSS/Javascript/React - continually learning and open to new experiences.
 - 💞️ I’m looking to collaborate on repositories and small projects to improve on my skills
 - 📫 Reach me on ochiengelvis90@gmail.com
 
