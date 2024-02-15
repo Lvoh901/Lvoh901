@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Elvis Odhiambo
-- 👀 Developer journey is continually exciting and engaging
 - 🌱 Fullstack Developer continually learning and open to new experiences.
 - 💞️ I’m looking to collaborate on repositories and small projects to improve on my skills
 - 📫 Reach me on ochiengelvis90@gmail.com
